@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TwinkhookOfficial/GalaxyRun/main/init.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Twinkhook/GalaxyRun/main/main.lua"))()
